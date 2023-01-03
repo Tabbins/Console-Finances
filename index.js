@@ -1,3 +1,5 @@
+// Finance Dataset 
+
 var finances = [
 ['Jan-2010', 867884],
 ['Feb-2010', 984655],
@@ -86,3 +88,44 @@ var finances = [
 ['Jan-2017', 138230],
 ['Feb-2017', 671099]
 ];
+
+
+// Total number of months. 
+
+var totalMonths;
+// WHAT IS THE CODE TO CALCULATE TOTAL MONTHS?? 
+console.log("Total Months: " + totalMonths);
+
+
+
+// Total net Profit/Loss over entire period
+
+var totalNet
+//WHAT IS THE CODE TO CALCULATE TOTAL NET? 
+console.log("Total: " + totalNet)
+
+
+
+// Average Changes in Profit/Loss 
+
+var averageChange
+//WHAT IS THE CODE TO CALCULATE THIS? 
+console.log("Average Change: ")
+
+
+
+
+// Greatest Profit Increase 
+
+var profitIncrease
+// WHAT IS THE CODE TO INDENTIFY DATE AND AMOUNT OVER ENTIRE PERIOD? 
+console.log("Greatest Increase in Profits: " + profitIncrease)
+
+
+
+
+// Greatest Profit Decrease 
+
+var profitDecrease
+// WHAT IS THE CODE TO INDENTIFY DATE AND AMOUNT OVER ENTIRE PERIOD? 
+console.log("Greatest decrease in Profits: " + profitDecrease)
