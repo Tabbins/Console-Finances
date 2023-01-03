@@ -93,7 +93,7 @@ var finances = [
 // Total number of months. 
 
 var totalMonths;
-// WHAT IS THE CODE TO CALCULATE TOTAL MONTHS?? 
+totalMonths = finances.length - 1;
 console.log("Total Months: " + totalMonths);
 
 
